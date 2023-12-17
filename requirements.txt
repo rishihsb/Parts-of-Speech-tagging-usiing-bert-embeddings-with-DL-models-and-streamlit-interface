@@ -5,4 +5,4 @@ pandas
 scikit-learn
 conllu
 seaborn
-pickle
+pickle5
