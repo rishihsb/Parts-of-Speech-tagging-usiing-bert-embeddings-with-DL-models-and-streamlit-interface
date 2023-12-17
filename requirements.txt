@@ -1,7 +1,6 @@
 torch
 streamlit
 transformers
-collections
 pandas
 scikit-learn
 conllu
