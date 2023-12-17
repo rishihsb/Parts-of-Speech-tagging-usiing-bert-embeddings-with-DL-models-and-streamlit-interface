@@ -1,0 +1,8 @@
+torch
+streamlit
+transformers
+conllu
+time
+collections
+pandas
+scikit-learn
