@@ -4,3 +4,4 @@ transformers
 pandas
 scikit-learn
 conllu
+seaborn
