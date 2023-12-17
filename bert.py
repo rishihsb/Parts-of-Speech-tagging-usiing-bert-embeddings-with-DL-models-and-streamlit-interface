@@ -247,7 +247,7 @@ def main():
         </style>
         '''
     st.markdown(bg_img, unsafe_allow_html=True)
-    st.title('POS Tagging with Machine Learning')
+    st.title('POS Tagging with Bert Embeddings')
     user_input = st.text_input('Enter a sentence in Telugu:', value='చూసేరా అండీ ?')
 
     if st.button('Predict POS Tags'):
